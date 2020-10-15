@@ -11,6 +11,10 @@ using Microsoft.Ajax.Utilities;
 
 namespace AssignmentTwo_N01458977.Controllers
 {
+    //Here is the link for the J3 problem.
+    //I tried the problem titled Art on page 8.
+    //https://cemc.math.uwaterloo.ca/contests/computing/2020/ccc/juniorEF.pdf
+
     //Class which calculates the border size.
     public class coordinate
     {
